@@ -41,13 +41,17 @@
     }
 
     .home2{
-        height: 120vh;
+        height: 160vh;
         flex-direction: column;
         img{
             width: 100%;
         }
         > div{
             width: 100%;
+            padding: 50px;
+            p{
+                font-size: 16px;
+            }
         }
     }
 
